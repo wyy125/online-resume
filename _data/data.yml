@@ -79,7 +79,7 @@ contact:
   strava:                  # useid             | https://www.strava.com/athletes/userid
 
 profile:
-  show: true
+  show: false
   order: 1
   title: Background
   description: |
