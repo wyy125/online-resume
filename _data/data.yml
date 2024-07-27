@@ -122,7 +122,7 @@ project:
   description: |
     
   items:
-    - name: Python-Based Autonomous Driving Robot: 
+    - name: Python-Based Autonomous Driving Robot 
       link: 
       tags:
       date: 
@@ -133,7 +133,7 @@ project:
         + Tech Stack: Python, Infrared Sensor, ToF Camera, DJI EP Robot, YOLOv5
         + Responsibilities: Integrated sensors for environment perception. Used YOLOv5 for object detection. Implemented obstacle avoidance, person following, and target grabbing 
         
-    - name: Java-Based Financial Management System Development:
+    - name: Java-Based Financial Management System Development
       link:
       tags: 
       date:
