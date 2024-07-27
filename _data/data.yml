@@ -123,7 +123,7 @@ project:
     
   items:
     - name: Python-Based Autonomous Driving Robot: 
-      link: '#'
+      link: 
       tags:
       date: 
       description: |
@@ -132,6 +132,7 @@ project:
         + Description: Developed an autonomous driving system on DJI EP robot with obstacle avoidance, person following, and target grabbing. 
         + Tech Stack: Python, Infrared Sensor, ToF Camera, DJI EP Robot, YOLOv5
         + Responsibilities: Integrated sensors for environment perception. Used YOLOv5 for object detection. Implemented obstacle avoidance, person following, and target grabbing 
+        
     - name: Java-Based Financial Management System Development:
       link:
       tags: 
