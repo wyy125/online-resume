@@ -122,7 +122,7 @@ project:
   description: |
     
   items:
-    - name: 基于python的自动驾驶机器人: 
+    - name: 基于python的自动驾驶机器人 
       link: '#'
       tags:
       date: 
