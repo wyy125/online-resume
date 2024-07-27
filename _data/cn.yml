@@ -1,0 +1,161 @@
+basic:
+  name: 王耀逸                     # name
+  title: 后端开发           # job title
+  avatar:
+    show: true                       # show or hide avatar
+    path: /assets/images/Wang Yaoyi.jpg        # avatar file path
+
+contact:
+  # meta
+  location: 鲁昂,法国 # location
+  email: wangyaoyi10@gmail.com    # email address
+  phone: +33 0666040248 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website:      # site URL without schema, like example.com, will automatically prepand "https://"
+
+  gender:                  # gender or pronoun
+  birthday:                # birthday
+  nationality:             # nationality
+  visa:                    # passport visa
+  drivinglicense:          # driving licence
+
+  # contact
+  wechat:                  # username
+  whatsapp:                # 8611122223333     | https://wa.me/8611122223333
+  telegram:                # username          | https://t.me/username
+  messenger:               # username          | https://m.me/username
+  line:                    # lineid            | https://line.me/R/ti/p/@lineid
+  viber:                   # username          | https://vb.me/username
+  threema:                 # userid            | https://threema.id/userid
+
+  # programmer
+  github:                  # username          | https://github.com/username
+  gitlab:                  # username          | https://gitlab.com/username
+  bitbucket:               # username          | https://bitbucket.com/username
+  stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
+  leetcode:                # username          | https://leetcode.com/username
+  codeforces:              # username          | https://codeforces.com/profile/username
+  codewars:                # username          | https://www.codewars.com/users/username
+  codepen:                 # username          | https://codepen.io/username
+  tryhackme:               # username          | https://tryhackme.com/p/username
+
+  # academic
+  googlescholar:           # username          | https://scholar.google.com/citations?user=username
+  researchgate:            # username          | https://www.researchgate.net/profile/username
+  kaggle:                  # username          | https://www.kaggle.com/username
+  orcid:                   # id                | https://orcid.org/id
+  figshare:                # name/id           | https://figshare.com/authors/name/id
+
+  # writer
+  devto:                   # username          | https://dev.to/username
+  medium:                  # username          | https://medium.com/@username
+  wordpress:               # username          | https://username.wordpress.com
+  blogger:                 # username          | https://username.blogspot.com
+  wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
+
+  # designer
+  figma:                   # username          | https://www.figma.com/@username
+  behance:                 # username          | https://www.behance.net/username
+  dribble:                 # username          | https://dribbble.com/username
+  artstation:              # username          | https://www.artstation.com/username
+
+  # other cv
+  linkedin:                # username          | https://linkedin.com/in/username
+  indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
+  xing:                    # username          | https://www.xing.com/profile/username
+  fiverr:                  # username          | https://www.fiverr.com/username
+  freelancer:              # username          | https://www.freelancer.com/u/username
+
+  # social media
+  twitter:                 # username          | https://twitter.com/username
+  mastodon:                # username@server
+  instagram:               # username          | https://instagram.com/username
+  unsplash:                # username          | https://unsplash.com/@username
+  _500px:                  # username          | https://500px.com/p/username
+  youtube:                 # username          | https://www.youtube.com/@username
+  tiktok:                  # username          | https://www.tiktok.com/@username
+  quora:                   # username          | https://www.quora.com/profile/username
+  zhihu:                   # username          | https://www.zhihu.com/people/username
+  goodreads:               # username          | https://www.goodreads.com/user/show/username
+  strava:                  # useid             | https://www.strava.com/athletes/userid
+
+profile:
+  show: false
+  order: 1
+  title: Background
+  description: |
+    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
+
+    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
+
+experience:
+  show: true
+  order: 2
+  title: Eduction
+  description: |
+    
+
+  items:
+    - company: ESIGELEC
+      link: '#'
+      tags: 
+      date: 2023 - 2024
+      role: 嵌入式人工智能
+      location: 硕士
+      description: |
+        主修课程：深度学习,项目管理,嵌入式Python开发,智能传感器,Linux 
+
+
+    - company: 河南师范大学 
+      link:
+      tags: 
+      date: 2019 - 2023
+      role: 网络工程
+      location: 本科
+      description: |
+        主修课程：数据结构,操作系统,计算机网络,计算机组成原理,C语言,Java,Python
+
+
+project:
+  show: true
+  order: 3
+  title: 项目经历
+  description: |
+    
+  items:
+    - name: 基于python的自动驾驶机器人: 
+      link: '#'
+      tags:
+      date: 
+      description: |
+        
+        + 担任角色: 项目负责人 
+        + 项目描述: 开发了一款基于大疆EP机器人的自动驾驶系统，实现自动避障、人物跟随和自动抓取目标。
+        + 技术栈：Python编程语言、红外传感器、ToF摄像头、大疆EP机器人平台、YOLOv5模型
+        + 主要职责:集成红外传感器和ToF摄像头，实现环境感知,利用YOLOv5进行目标检测和识别,实现机器人自动避障、人物跟随和目标抓取功能 
+    - name: 基于Java的财务管理系统的开发
+      link:
+      tags: 
+      date:
+      description: |
+        
+        + 项目描述: 开发了一款用于记录和管理用户消费记录的财务管理系统，支持管理员和用户登录，以及消费记录的增删改查
+        + 技术栈：Java编程语言、MySQL数据库、Apache Tomcat服务器、SpringBoot框架
+        + 主要职责:设计系统架构和数据库结构,使用SpringBoot框架开发后端业务逻辑,实现管理员和用户的身份验证及权限管理,进行系统测试和调试，部署到Tomcat服务器 
+
+skill:
+  show: true
+  order: 4
+  title: Skills
+  description: |
+        + Java: 熟悉SpringBoot框架，具有Web应用开发经验 
+        + Python: 擅长数据处理和自动化，熟悉深度学习框架如TensorFlow和PyTorch
+        + C: 具有嵌入式系统开发和硬件控制经验
+        + MySQL: 熟悉数据库设计、优化和SQL查询，具有实际项目的数据库管理经验
+        + 容器技术:掌握Docker容器化技术，能够创建和管理容器，熟悉Docker Compose用于多容器应用的编排 
+        + Web技术: 了解HTML、CSS、JavaScript，能够进行前后端交互开发
+        + 语言能力: 具备B2等级的英语听说读写能力，能够熟练阅读技术文档和进行基本交流
+    
+
+
+
+close: <strong>Sorry, my resume has been hidden.</strong>
