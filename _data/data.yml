@@ -9,7 +9,7 @@ contact:
   # meta
   location: Rouen,France # location
   email: wangyaoyi10@gmail.com    # email address
-  phone: +330666040248 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone: +33 0666040248 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:      # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
