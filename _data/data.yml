@@ -3,7 +3,7 @@ basic:
   title: Backend Developer           # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /images/Wang Yaoyi.jpg        # avatar file path
+    path: /assets/images/Wang Yaoyi.jpg        # avatar file path
 
 contact:
   # meta
